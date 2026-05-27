@@ -7,3 +7,12 @@
 💡 Em considero una persona creativa, disciplinada i constant, amb moltes ganes d’aprendre i continuar evolucionant dins del sector tecnològic. Sempre intento afrontar nous reptes amb actitud positiva i aprofitar cada projecte com una oportunitat per millorar les meves habilitats.
 
 🚀 En aquest perfil de GitHub compartiré alguns dels meus projectes, pràctiques i aprenentatges relacionats amb la informàtica, amb l’objectiu de continuar creixent com a futur professional IT i mostrar la meva evolució dins d’aquest àmbit.
+
+#Link projectes:
+Projecte 2: https://github.com/LeandroReyess/Projecte2/tree/main
+projecte 3: https://github.com/LeandroReyess/projecte-3
+projecte 4: https://github.com/LeandroReyess/Projecte-4-
+projecte 5: https://github.com/classesSMX2n/projecte5-LeandroReyess
+projecte 6: https://github.com/classesSMX2n/projecte6-LeandroReyess
+projecte 7: https://github.com/classesSMX2n/projecte-7-LeandroReyess
+projecte 8: https://github.com/classesSMX2n/projecte-8-LeandroReyess
