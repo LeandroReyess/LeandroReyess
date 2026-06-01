@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://tenor.com/es/view/pescaria-fishing-fail-swim-throw-gif-17130891
+" width="800" alt="Homer jugant a futbol" />
+</p>
+
+https://tenor.com/es/view/pescaria-fishing-fail-swim-throw-gif-17130891
+
+
 # 👋 Hola! Sóc en Leandro Linares de los Reyes
 
 🎓 Actualment estic cursant el segon any del CFGM de Sistemes Microinformàtics i Xarxes (SMX), una etapa on estic adquirint coneixements tècnics i experiència pràctica en el món de la informàtica i les xarxes. Durant aquests estudis he pogut treballar amb diferents sistemes operatius, configuració de xarxes, manteniment d’equips i resolució d’incidències tècniques, aspectes que m’han ajudat a créixer tant professionalment com personalment.
