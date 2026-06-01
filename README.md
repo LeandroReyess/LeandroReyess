@@ -9,7 +9,7 @@
 🚀 En aquest perfil de GitHub compartiré alguns dels meus projectes, pràctiques i aprenentatges relacionats amb la informàtica, amb l’objectiu de continuar creixent com a futur professional IT i mostrar la meva evolució dins d’aquest àmbit.
 
 
-al arxiu [presentacio.md](https://github.com/LeandroReyess/Presentacio.md) es troba la informació mes detallada
+## al arxiu [presentacio.md](https://github.com/LeandroReyess/Presentacio.md) es troba la informació mes detallada
 
 
 # Link projectes:
