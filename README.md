@@ -10,7 +10,7 @@
 
 # Link projectes:
 
-[Projecte 2]:(https://github.com/LeandroReyess/Projecte2/tree/main)
+[Projecte 2](https://github.com/LeandroReyess/Projecte2/tree/main)
 
 projecte 3: https://github.com/LeandroReyess/projecte-3
 
