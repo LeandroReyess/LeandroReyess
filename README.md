@@ -23,7 +23,7 @@
 |  Projecte06 | Lliuraments del projecte 6 | [Projecte06]( https://github.com/classesSMX2n/projecte6-LeandroReyess) |
 |  Projecte07 | Lliuraments del projecte 7 | [Projecte07]( https://github.com/classesSMX2n/projecte-7-LeandroReyess) |
 |  Projecte08 | Lliuraments del projecte 8 | [Projecte08]( https://github.com/classesSMX2n/projecte-8-LeandroReyess) |
-|  Web | Codis de la web | [Web]() |
+|  Web | Codis de la web | [Web](https://leandroreyess.github.io/Foodlogistic-Leandro/#) |
 
 [Projecte 2][(https://github.com/LeandroReyess/Projecte2/tree/main)](https://github.com/LeandroReyess/projecte-3)
 
