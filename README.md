@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHprNHU0NGFpMG1nd2Zic2lsNTgweW9ib3JnaXpza2xoOHoxNGJoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9sDNyvlqFxO09Ax5jO/giphy.gif" width="800" alt="gif">
 </p>
 
-# 👋 Hola! Sóc en Leandro Linares de los Reyes
+<h1 align="center"> Leandro — muntatge i manteniment </h1>
 
 🎓 Actualment estic cursant el segon any del CFGM de Sistemes Microinformàtics i Xarxes (SMX), una etapa on estic adquirint coneixements tècnics i experiència pràctica en el món de la informàtica i les xarxes. Durant aquests estudis he pogut treballar amb diferents sistemes operatius, configuració de xarxes, manteniment d’equips i resolució d’incidències tècniques, aspectes que m’han ajudat a créixer tant professionalment com personalment.
 
