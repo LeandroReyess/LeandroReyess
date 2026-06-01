@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.tenor.com/images/7d4f5f4a9d7a9a0a5d4b2a5e7c7f2b8b/tenor.gif" width="800" alt="fishing fail">
-</p>
+![fishing fail](https://media.tenor.com/images/7d4f5f4a9d7a9a0a5d4b2a5e7c7f2b8b/tenor.gif)
 
 # 👋 Hola! Sóc en Leandro Linares de los Reyes
 
