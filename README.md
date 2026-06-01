@@ -2,7 +2,6 @@
   <img src="https://tenor.com/es/view/pescaria-fishing-fail-swim-throw-gif-17130891](https://i.pinimg.com/originals/b1/7d/0c/b17d0c52afab9f4538dbbb98bc039d50.gif" width="800" alt="noi pescant" />
 </p>
 
-[https://tenor.com/es/view/pescaria-fishing-fail-swim-throw-gif-17130891](https://i.pinimg.com/originals/b1/7d/0c/b17d0c52afab9f4538dbbb98bc039d50.gif)
 
 
 # 👋 Hola! Sóc en Leandro Linares de los Reyes
