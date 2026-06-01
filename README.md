@@ -24,6 +24,9 @@
 |  Projecte07 | Lliuraments del projecte 7 | [Projecte07]( https://github.com/classesSMX2n/projecte-7-LeandroReyess) |
 |  Projecte08 | Lliuraments del projecte 8 | [Projecte08]( https://github.com/classesSMX2n/projecte-8-LeandroReyess) |
 |  Web | Codis de la web | [Web](https://leandroreyess.github.io/Foodlogistic-Leandro/#) |
+|  Kanban | Planner | [KanbanP3]([https://leandroreyess.github.io/Foodlogistic-Leandro/#](https://planner.cloud.microsoft/webui/plan/EUT-NwoXl0qnp0h37MWtU5YAGPJl/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)) |
+| Kanban  | Planner | [KanbanP4]( https://planner.cloud.microsoft/webui/plan/ekCjH7UIGESIHgIcqso-f5YAADnM/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317) |
+
 
 [Projecte 2][(https://github.com/LeandroReyess/Projecte2/tree/main)](https://github.com/LeandroReyess/projecte-3)
 
