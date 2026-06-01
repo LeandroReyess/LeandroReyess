@@ -14,6 +14,18 @@
 
 # Link projectes:
 
+| Projecte | Descripció | Enllaç |
+|-----------|-------------|--------|
+|  Projecte02 | Presentació personal i lliuraments individuals. | Projecte02 |
+|  Projecte03 | LLiuraments del projecte 3 | [Projecte03](https://github.com/LeandroReyess/projecte-3) |
+|  Projecte04 | Lliuraments del projecte 4 | Projecte04 |
+|  Projecte05 | Lliuraments del projecte 5 | Projecte05 |
+|  Projecte06 | Lliuraments del projecte 6 | Projecte06 |
+|  Projecte07 | Lliuraments del projecte 7 | Projecte07 |
+|  Projecte08 | Lliuraments del projecte 8 | Projecte08 |
+|  Ud9 Sistemes | Lliurament | Ud9 |
+|  Web | Codis de la web | Web |
+
 [Projecte 2](https://github.com/LeandroReyess/Projecte2/tree/main)
 
 projecte 3: https://github.com/LeandroReyess/projecte-3
