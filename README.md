@@ -1,4 +1,6 @@
-![noi pescant](https://i.pinimg.com/originals/b1/7d/0c/b17d0c52afab9f4538dbbb98bc039d50.gif)
+<p align="center">
+  <img src="https://media.tenor.com/images/7d4f5f4a9d7a9a0a5d4b2a5e7c7f2b8b/tenor.gif" width="800" alt="fishing fail">
+</p>
 
 # 👋 Hola! Sóc en Leandro Linares de los Reyes
 
